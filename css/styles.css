@@ -65,7 +65,7 @@ img {
 
 .section {
   padding-top: 120px;
-  padding-bottom: 120px;
+  /* padding-bottom: 120px; */
 }
 
 .container {
@@ -262,6 +262,7 @@ body {
 
 .team {
   background-color: var(--cloud-bg-cl);
+  padding-bottom: 120px;
 }
 .team-item {
   background-color: var(--white-bg-cl);
@@ -316,7 +317,7 @@ body {
 /* our work */
 
 .work-section {
-  padding: 96px 0 120px;
+  padding-bottom: 120px;
 }
 
 .work-subtitle {
@@ -368,9 +369,9 @@ body {
   column-gap: 24px;
 }
 
-.card-list:nth-last-child(-n + 3) {
+/* .card-list:nth-last-child(-n + 3) {
   padding-bottom: 120px;
-}
+} */
 
 .work-card {
   border: 1px solid var(--cornflower);
