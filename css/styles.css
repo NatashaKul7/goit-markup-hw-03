@@ -163,11 +163,9 @@ body {
 .contact-list {
   display: flex;
   align-items: center;
+  gap: 40px;
 }
 
-.header-contact {
-  margin-right: 40px;
-}
 .contact .link {
   color: var(--slate);
   font-style: normal;
