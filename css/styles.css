@@ -65,7 +65,7 @@ img {
 
 .section {
   padding-top: 120px;
-  /* padding-bottom: 120px; */
+  padding-bottom: 120px;
 }
 
 .container {
@@ -317,7 +317,7 @@ body {
 /* our work */
 
 .work-section {
-  padding-bottom: 120px;
+  padding: 96px 0 120px;
 }
 
 .work-subtitle {
@@ -357,7 +357,6 @@ body {
   display: flex;
   gap: 24px;
   /* justify-content: center; */
-  padding-top: 96px;
   justify-content: center;
   margin-bottom: 72px;
 }
