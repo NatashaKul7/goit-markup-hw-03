@@ -239,6 +239,10 @@ body {
 
 /* advantages / team */
 
+.advantages-section {
+  padding-bottom: 0;
+}
+
 .advantages-list,
 .team-list {
   display: flex;
@@ -306,6 +310,8 @@ body {
   width: 264px;
 }
 .footer .logo {
+  padding-top: 0;
+  padding-bottom: 0;
   margin-bottom: 16px;
 }
 
